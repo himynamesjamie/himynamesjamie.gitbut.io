@@ -1,3 +1,3 @@
 
 
-window.alert (1+1);
+window.alert ("ALERT!!");

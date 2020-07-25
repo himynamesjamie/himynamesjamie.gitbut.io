@@ -1,3 +1,3 @@
 
 
-window.alert ("ALERT!!");
+window.alert ("Ignore the homepage. not sure what to use it for");
